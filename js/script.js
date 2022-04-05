@@ -14,8 +14,6 @@
 
 'use strict';
 
-// start();
-
 const personalMovieDB = {
     count: 0,
     movies: {},
@@ -84,4 +82,3 @@ personalMovieDB.detectPersonalLevel();
 personalMovieDB.rememberMyFilms();
 personalMovieDB.writeYourGenres();
 personalMovieDB.showMyDB();
-// Код возьмите из предыдущего домашнего задания
