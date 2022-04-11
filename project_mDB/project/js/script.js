@@ -14,9 +14,9 @@
 // 5) Фильмы должны быть отсортированы по алфавиту */
 
 
-'use strict';
+'use strict';   // строгий режим
 
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', () => {    // когда документ сформирует єлементы - выполнять скрипт
 
 
 const movieDB = {
